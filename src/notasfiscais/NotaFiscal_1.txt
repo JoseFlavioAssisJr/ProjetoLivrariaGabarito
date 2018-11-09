@@ -1,0 +1,15 @@
+-------- DADOS DA VENDA Nº 1 ---------
+Data Venda: 08/11/2018
+CPF do Cliente: 111.111.111-11
+Nome do Cliente: 11111
+---------- Livro de codigo 1001 ----------
+Titulo: Livro com Titulo 1
+Editora: Editora 110
+Valor Unitário: 10.0
+ Quantidade = 2 - Valor Item: R$20.0
+---------- Livro de codigo 1020 ----------
+Titulo: Livro com Titulo 20
+Editora: Editora 2010
+Valor Unitário: 210.0
+ Quantidade = 3 - Valor Item: R$630.0
+VALOR TOTAL = R$650.0
